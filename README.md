@@ -7,3 +7,4 @@ line 4
 
 
 new error 10
+new error 20
