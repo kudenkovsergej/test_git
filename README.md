@@ -34,3 +34,6 @@ pipec
 
 
 add new_testing.txt
+
+
+пишем всякую ерунду
