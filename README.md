@@ -7,3 +7,4 @@ line 4
 
 
 error 1
+error 2
